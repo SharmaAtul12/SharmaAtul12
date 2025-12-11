@@ -67,4 +67,9 @@ Every project—whether it's an AI-powered agriculture app or an employee manage
 
 <div align="center">
   <i>Let's build something scalable together.</i>
+  <br/>
+  <br/>
+  <a href="https://www.linkedin.com/in/atul-sharma-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
