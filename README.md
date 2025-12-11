@@ -1,57 +1,69 @@
-# Hi there, I'm a Full Stack Developer! 👋
+<div align="center">
+  <h1>Hi there, I'm a Full Stack Developer! 👋</h1>
+  <h3>
+    Full Stack Developer | JS/TS | React, Next.js & Node.js <br/>
+    PostgreSQL, MongoDB, Prisma & Drizzle | Authentication & Authorization <br/>
+    Modern UI & Dashboards | Building Smart & Scalable Web Apps | Integrating AI
+  </h3>
+</div>
 
-<h3 align="center">
-Full Stack Developer | JS/TS | React, Next.js & Node.js | PostgreSQL, MongoDB, Prisma & Drizzle <br/>
-Authentication & Authorization | Modern UI & Dashboards <br/>
-Building Smart & Scalable Web Apps | Integrating AI
-</h3>
+<br/>
 
----
+### 👨‍💻 My Developer Journey
 
-### 👨‍💻 About Me
+My path has been defined by **growth through curiosity**. It started with the messy basics of HTML & CSS and evolved into a deep command of the **React & Node.js ecosystem**.
 
-My developer journey has been a transformation from navigating the basics of HTML/CSS to architecting clean, scalable systems. What started as curiosity has evolved into a deep command of the **React & Node.js ecosystem**.
+I didn't just learn syntax; I learned **architecture**. I explored backend logic, built full-stack applications, and mastered tools like **PostgreSQL, Drizzle, and Prisma**. I specialize in implementing secure, production-ready **Authentication & Authorization** (using NextAuth, Clerk, BetterAuth, and JWT) and managing complex state with Redux Toolkit.
 
-I have explored backend logic, built full-stack projects, and mastered tools like **PostgreSQL, Drizzle, Prisma, and Redux Toolkit**. I specialize in securing applications with advanced authentication (JWT, Clerk, NextAuth, BetterAuth) and managing complex server state.
+Recently, I have been bridging the gap between robust server-side logic and polished user experiences. I am currently leveraging **Gemini AI** to design smarter, data-driven dashboards that bring both function and aesthetics together.
 
-Recently, I’ve started bridging the gap between robust backend logic and polished user experiences, leveraging **Gemini AI** to design smarter, aesthetic dashboards. Every project is a step forward—moving from simple code to professional architecture.
-
----
-
-### 🛠️ Languages & Tools
-
-**Frontend & UI:**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**Backend & Database:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**ORM & Architecture:**
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-
-**Security & Tools:**
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+Every project—whether it's an AI-powered agriculture app or an employee management system—pushes me closer to becoming the engineer I dreamed of being. 🚀
 
 ---
 
-### 🏆 Achievements & Stats
+### 🛠️ Tech Stack & Arsenal
+
+**Frontend & UI**
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+**Backend & API**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
+
+**Database & ORM**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+
+**Tools & Deployment**
+<br/>
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+---
+
+### 🔭 Current Focus & Highlights
+
+- **AgriVision Project:** Building a smart agriculture platform integrating **Gemini AI** for real-time insights.
+- **Advanced Security:** Implementing Role-Based Access Control (RBAC) and secure session management.
+- **Smart UI:** Focusing on aesthetic dashboards using **React Hook Form** and **Tailwind**.
+- **Performance:** Optimizing database queries with **Drizzle** and server-side caching.
+
+---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SharmaAtul12&theme=flat&no-frame=true&column=7&margin-w=15" alt="trophies" />
-  </a>
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharmaAtul12&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <i>Let's build something scalable together.</i>
 </div>
